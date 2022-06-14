@@ -1,6 +1,6 @@
 # Patika Insertion Sort Project
 
-[Patika.dev profil linkim]([https://www.kodluyoruz.org/](https://app.patika.dev/denizerkeskiner))
+[Patika.dev profil linkim](https://app.patika.dev/denizerkeskiner)
 
 <h2>Soru 1</h2>
 
